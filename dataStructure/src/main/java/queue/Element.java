@@ -1,6 +1,7 @@
 package queue;
 
 /**
+ * 数据类
  * Created by conglin.liu on 2017/7/26.
  */
 public class Element {

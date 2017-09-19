@@ -1,7 +1,7 @@
 package queue;
 
 /**
- * 链式队列 : 尾进头出
+ * 链式队列 : 单链表实现，尾进头出
  * Created by conglin.liu on 2017/7/26.
  */
 public class LinkedQueue {

@@ -2,6 +2,7 @@ package link;
 
 /**
  *
+ * 链表数据实体
  * Created by conglin.liu on 2017/7/13.
  */
 public class Link {
